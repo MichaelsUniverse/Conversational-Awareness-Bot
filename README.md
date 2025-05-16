@@ -5,6 +5,7 @@
     context, the system allows the AI to recall previous interactions and references, making the chat 
     feel more like a natural, human conversation.
 
+    (its still buggy sometimes)
 
 ## Project setup
 
